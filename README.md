@@ -28,8 +28,9 @@ Requirements
 •	Python 3 (recommended in Google Colab)
 •	Libraries: numpy, matplotlib, PIL
 Steps
-1.	Clone the Repository
+1.	Clone the Repository: 
 git clone https://github.com/MohamedKemo1350/Ishihara-Test-
+
 cd Ishihara-Test-
 
 2.	Open the Notebook
